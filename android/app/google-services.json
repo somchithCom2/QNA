@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "254387761247",
+    "firebase_url": "https://dataqna.firebaseio.com",
+    "project_id": "dataqna",
+    "storage_bucket": "dataqna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254387761247:android:8f15e8aa8a64a633",
+        "android_client_info": {
+          "package_name": "com.googlelogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254387761247-o3g298qlv4j1ikgu7tqc6urmo0i9qfeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgzwfgs-mz9XdngtO1aQ7Ko_iCKd1IJU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254387761247:android:9087b138a2e2286e",
+        "android_client_info": {
+          "package_name": "com.qandagame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254387761247-23bsrkp03610hohtlg3dmhommkr1s7ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qandagame",
+            "certificate_hash": "a6c969eb467352e9d9ceb626f0f29f81f8095235"
+          }
+        },
+        {
+          "client_id": "254387761247-o3g298qlv4j1ikgu7tqc6urmo0i9qfeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgzwfgs-mz9XdngtO1aQ7Ko_iCKd1IJU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254387761247-ma4l3fhd6rgbqmn56g5dvi95ofj4445s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
